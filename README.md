@@ -1,7 +1,7 @@
 This is a sample README.md file you can use to update your project. New project repos will use this template when they are created.
 
 # Project Name
-EDA Regionalization
+EDA Regionalisation
 
 # Project Overview
 ## Vision & Goals
@@ -10,7 +10,7 @@ Please replace with your projects vision.
 * Goal 2
 
 ## Project Vertical
-Please replace with Nonprofit, Education, or Other (if Other, explain further)
+Education
 
 ## Hub Group Link
 Please replace with the URL for your Power of Us Hub and/or Trailblazer Community group.
